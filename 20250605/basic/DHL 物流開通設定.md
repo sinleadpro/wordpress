@@ -87,7 +87,7 @@ CYBERBIZ 會先收取預估運費，以**Cyber幣的方式收取** ，可在對�
 
 
 
-[![DHL-物流-03](https://www.cyberbiz.io/support/wp-content/uploads/DHL-物流-03.png)](https://www.cyberbiz.io/support/wp-content/uploads/DHL-物流-03.png)  
+[![DHL-物流-03|464x232](https://www.cyberbiz.io/support/wp-content/uploads/DHL-物流-03.png)](https://www.cyberbiz.io/support/wp-content/uploads/DHL-物流-03.png)  
 
 點我前往 [建立及管理 DHL 託運單](https://www.cyberbiz.io/helpcenter/?p=1769) 教學文件。  
 

@@ -7,11 +7,11 @@ permalink: "https://www.cyberbiz.io/helpcenter/?p=420"
 ---
 
 在前台顯示門市/公司地圖，正常顯示如下：  
-![Google Map地圖](https://www.cyberbiz.co/helpcenter/wp-content/uploads/2019/09/MAP1.png)
+![Google Map地圖|464x194](https://www.cyberbiz.co/helpcenter/wp-content/uploads/2019/09/MAP1.png)
 
 _Step 1  _先至Google Map上，打上想顯示的地址→點選【分享】→點選【嵌入地圖】→點選【複製HTML】
 
-![Google Map地圖](https://www.cyberbiz.co/helpcenter/wp-content/uploads/2019/09/MAP2.png)
+![Google Map地圖|464x229](https://www.cyberbiz.co/helpcenter/wp-content/uploads/2019/09/MAP2.png)
 
 > **功能列表**
 >

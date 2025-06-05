@@ -2,7 +2,7 @@
 title: "如何在 Facebook 後台找到 CAPI Token"
 last_modified: ""
 categories: [第三方平台整合>Facebook相關設定]
-tags: [#Facebook]
+tags: [Facebook]
 permalink: "https://www.cyberbiz.io/helpcenter/?p=3093"
 ---
 
