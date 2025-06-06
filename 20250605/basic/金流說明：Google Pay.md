@@ -1,5 +1,5 @@
 ---
-title: "<span style="text-transform: none;">金流說明 : Google Pay™</span>"
+title:金流說明 : Google Pay
 last_modified: ""
 categories: [網站設定>金物流設定>CYBERBIZ PAYMENTS,金流]
 tags: []
@@ -8,7 +8,7 @@ permalink: "https://www.cyberbiz.io/helpcenter/?p=3900"
 
 ![](https://www.cyberbiz.io/helpcenter/wp-content/uploads/CYBPAYMENTS.png)
 ![](https://www.cyberbiz.io/helpcenter/wp-content/uploads/一般版3.png)
-![](https://www.cyberbiz.io/helpcenter/wp-content/uploads/PLUS版3.png) **Google
+![|464x60](https://www.cyberbiz.io/helpcenter/wp-content/uploads/PLUS版3.png) **Google
 Pay 優勢**  
 
 
